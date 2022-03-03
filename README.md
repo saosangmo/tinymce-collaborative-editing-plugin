@@ -29,7 +29,7 @@ Having the sample plugin created, we can start to build our own logic in the cod
       plugins: 'code budwriter',
       budwriter: {
         name: 'Andre',
-        photoUrl: 'https://www.biggalyoga.com/wp-      content/uploads/2018/07/profilecircle-768x814.png',
+        photoUrl: 'https://www.biggalyoga.com/wp-content/uploads/2018/07/profilecircle-768x814.png',
         key: 'free4all',
         socketUrl: 'http://localhost:3000'
       },
